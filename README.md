@@ -1,12 +1,7 @@
 
 <html>
 <head>
-    <style>
-      body {background-color:yellow;}
-      h1{color:red;}
-        #green{color:green;}
-        #blue{color:blue;}
-    </style>
+    
 </head>
     <body>
         <h1>Welcome to Web Coffee!</h1>

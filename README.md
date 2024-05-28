@@ -1,14 +1,11 @@
-<!doctype html>
+
 <html>
 <head>
-    <title>Web Programming</title>
     <style>
       body {background-color:yellow;}
       h1{color:red;}
         #green{color:green;}
         #blue{color:blue;}
-      
-
     </style>
 </head>
     <body>
